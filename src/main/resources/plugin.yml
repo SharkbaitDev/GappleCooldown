@@ -1,0 +1,5 @@
+name: GappleCooldown
+version: ${project.version}
+main: com.sharkbait.gapplecooldown.Core
+authors: [Sharkbait]
+description: Cooldown on golden and god apples!

@@ -1,0 +1,4 @@
+cooldownTime: 10
+normalGappleCooldownTime: 10
+mustWaitGodGapple: '&cYou must wait &c&l{time} seconds &cto eat another god apple!'
+mustWaitNormalGapple: '&cYou must wait &c&l{time} seconds &cto eat another golden apple!'
